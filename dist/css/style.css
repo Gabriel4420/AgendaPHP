@@ -1,0 +1,17 @@
+.perfil {
+  text-align: center;
+}
+
+.perfil img {
+  width: 250px;
+  border-radius: 50%;
+  padding-bottom: 15px;
+}
+
+.perfil h3 {
+  font-size: 40px;
+}
+
+.perfil p {
+  font-size: 20px;
+}
